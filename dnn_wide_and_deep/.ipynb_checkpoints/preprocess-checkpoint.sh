@@ -1,1 +1,0 @@
-python preprocess_pipeline.py --raw-train-file data/train4.csv --raw-eval-file data/eval4.csv --transform-train-prefix data/transformed/carnival-train --transform-eval-prefix data/transformed/carnival-eval --runner DirectRunner
